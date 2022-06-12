@@ -1,0 +1,11 @@
+
+#banner
+image=https://github.com/LavaHoleD/RionWeb/blob/main/rion/images/banner_mmi.png?raw=true
+text=&lMinecraft Modding Italy
+
+#divider
+size=1
+
+#paragraph
+text=Benvenuto sul sito ufficiale di &bMinecraft Modding Italy&r. In questo sito, relative informazione al modding verranno pubblicate, insieme ai nostri contatti. Buona permanenza!
+padding=10
