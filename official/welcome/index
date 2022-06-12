@@ -1,47 +1,47 @@
 #banner
 image=https://i.imgur.com/rIzqukr.png
-text=&f&lWelcome to GitWeb
+text=&f&lBenvenuto al RionWeb
 
 #navigation
 item-link-1=welcome.official
 item-label-1=Home
 item-icon-1=HOME
 item-link-2=welcome.official/websites
-item-label-2=Official Index
+item-label-2=Index Ufficiale
 item-icon-2=CONTACTS
 item-link-3=submit.official
-item-label-3=Submit Website
+item-label-3=Pubblica un Sito
 item-icon-3=EDIT
 item-link-4=welcome.official/report
-item-label-4=Report
+item-label-4=Segnala
 item-icon-4=ERROR
 
 #paragraph
-text=&e&lGitWeb&r is a working web browser powered by GitHub. It is community driven, which means websites you browse are created by other players.\n\nIf you would like to add your own site to GitWeb, visit &esubmit.official&r to get started!
+text=Il &e&lRionWeb&r è un internet esclusivo del server roleplay Rioncraft. Tramite il Rionweb i giocatori possono creare i loro siti di cui possono assumere qualsiasi funzione a loro piacimento.\n\nIn caso vorresti pubblicare il tuo sito, visita &esubmit.official&r per iniziare!
 image=https://avatars1.githubusercontent.com/u/2132216?s=460&v=4
 padding=10
 
 #header
-text=&f&lGetting Started
+text=&f&lIniziare nel RionWeb
 scale=2
 align=left
 padding=10
 
 #paragraph
-text=Just like a normal web browser, you can enter the address of the website above. Now don't get too ahead of yourself, you can't enter real websites. Instead you have to enter the address of a GitWeb site. You can find a list of all the websites available at &eindex.official
+text=Come un normale browser del web, puoi digitare l'indirizzo di un sito in modo di accedervi. Non aspettarti di troppo, non puoi accedere a siti reali. Dovrai invece digitare l'indirizzo di un sito RionWeb. Puoi trovare una lista di alcuni dei siti esistenti nel RionWeb su &eindex.official
 padding=10
 
 #header
-text=&f&lCredits
+text=&f&lCrediti
 scale=2
 align=left
 padding=10
 
 #paragraph
-text=&e&lGitWeb&r was originally created by MinecraftDoodler and MrCrayfish. It is now updated and managed by oxmc.
+text=&e&lGitWeb&r è un concetto creato da MinecraftDoodler e MrCrayfish. Il Rionweb è creato parallelamente ad esso. A differenza sua, il Rionweb è mantenuto e completamente in italiano. 
 padding=10
 
 #footer
-title=GitWeb
-sub-title=Copyright (c) oxmc
+title=RionWeb
+sub-title=Copyright (c) lavaholed
 home-page=welcome.official
